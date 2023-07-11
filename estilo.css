@@ -12,6 +12,8 @@ body {
   margin: 0;
   padding-bottom: 1em;
   background-color: #000000;
+  background-image: url("particulas-fondo.jpg");
+
 }
 
 .jblancasmx {
@@ -23,13 +25,13 @@ body {
   font-size: 4em;
   padding: 15px 0px 20px 30px;
   border-bottom: 0.1px solid rgb(207, 202, 168);
-  background: url("https://us.123rf.com/450wm/naropano/naropano1708/naropano170800031/83852037-textura-de-madera-del-fondo-negro-en-blanco-para-el-dise%C3%B1o.jpg");
+  background-image: url("fondo-titulo.jpg");
 }
 
 .nombrecancion {
-  font-family: "Bebas Neue", cursive;
+  font-family: "Shadows Into Light", cursive;
   color: white;
-  font-size: 2vw;
+  font-size: 2.5rem;
   padding: 25px 0px 0px 0px;
   text-align: center;
   margin: 0px 0px;
@@ -47,7 +49,7 @@ video {
 .footer {
   background-color: white;
   font-family: "Poppins", sans-serif;
-  font-weight: 200;
+  font-weight: lighter;
   font-size: 20px;
   padding: 0.8em 0;
   margin: 0;
